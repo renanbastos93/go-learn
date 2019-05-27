@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"math"
-	// m "math" -> For to create alias to package math 
+	// m "math" -> For to create alias to package math
 )
 
 func main() {
@@ -27,4 +27,11 @@ func main() {
 	)
 
 	fmt.Println(a, b, c, d)
+
+	// Declare with reduce
+	var e, f bool = false, true
+	g, h, i := false, 1.3, "Hello..."
+
+	fmt.Println(e, f)
+	fmt.Println(g, h, i)
 }
