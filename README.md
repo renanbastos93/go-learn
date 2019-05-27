@@ -12,3 +12,4 @@ This repository, I will use to put my exercises based on course Udemy
 ### Classes 
 - Hello World -> [Click](https://github.com/renanbastos93/go-learn/blob/master/course/hello_world.go)
 - Const and Var -> [Click](https://github.com/renanbastos93/go-learn/blob/master/course/const_var.go)
+- Prints -> [Click](https://github.com/renanbastos93/go-learn/blob/master/course/prints.go)
