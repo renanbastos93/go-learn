@@ -3,7 +3,7 @@ This repository, I will use to put my exercises based on course Udemy
 
 
 ### Topics
-- [ ] Learning the fundamentals of language
+- [x] Learning the fundamentals of language
 - [ ] Structs, functions, pointers, operations, interface, polimorfismo, etc...
 - [ ] Best practices
 - [ ] Use database (Create, transactions, insert, update, delete, select, ...)
